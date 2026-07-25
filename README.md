@@ -1,1 +1,1 @@
-# Hierarchical Cluster Analysis (Practical Training)
+# Hierarchical Cluster Analysis, Method K-means (Practical Training)
