@@ -1,2 +1,1 @@
-# hierarchical-clustera-analysis-practical-tasks-
-Hierarchical Cluster Analysis
+# Hierarchical Cluster Analysis (Practical Training)
