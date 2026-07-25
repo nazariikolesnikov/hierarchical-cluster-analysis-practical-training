@@ -11,4 +11,4 @@
 ## 📊 Visualizations
 <img width="5647" height="3107" alt="Dendrogram" src="https://github.com/nazariikolesnikov/hierarchical-cluster-analysis-practical-training/blob/main/Dendrogram.png" />
 
-<img width="5647" height="3107" alt="Time Series Forcasting (ARIMA)" src="https://github.com/nazariikolesnikov/hierarchical-cluster-analysis-practical-training/blob/main/The%20Elbow%20Method%20with%20optimal%20number%20of%20K.png" />
+<img width="5647" height="3107" alt="The Elbow Method with optimal number of K" src="https://github.com/nazariikolesnikov/hierarchical-cluster-analysis-practical-training/blob/main/The%20Elbow%20Method%20with%20optimal%20number%20of%20K.png" />
