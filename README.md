@@ -1,4 +1,4 @@
-# Hierarchical Cluster Analysis, Method K-means (Practical Training)
+# Hierarchical Cluster Analysis, K-Means Method (Practical Training)
 
 ## 🤖 Technologies
 
